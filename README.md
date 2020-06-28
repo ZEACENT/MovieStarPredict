@@ -8,6 +8,6 @@
 
 自定义电影信息，让模型预测该电影的得分是否高于6分。结果如下：
 
-![Screen Shot 2020-06-28 at 10.42.27](/GitHub/数据分析实训/Finals/Screen Shot 2020-06-28 at 10.42.27.png)
+![Screen Shot 2020-06-28 at 10.42.27](https://github.com/ZEACENT/MovieStarPredict/blob/master/Screen%20Shot%202020-06-28%20at%2010.42.27.png)
 
-![Screen Shot 2020-06-28 at 10.42.27](/GitHub/数据分析实训/Finals/Screen Shot 2020-06-28 at 10.42.35.png)
+![Screen Shot 2020-06-28 at 10.42.27](https://github.com/ZEACENT/MovieStarPredict/blob/master/Screen%20Shot%202020-06-28%20at%2010.42.35.png)
